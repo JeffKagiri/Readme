@@ -31,4 +31,3 @@ This portfolio serves as a digital resume and a creative showcase for my web dev
 
 ---
 
-## Project Structure
